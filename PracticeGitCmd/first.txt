@@ -1,1 +1,3 @@
 "Branch first changes"
+"Changes from branch second"
+	
